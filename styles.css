@@ -22,7 +22,6 @@ hr {
 
 }
 
-
 img:hover {
   background-color: gold;
 }
@@ -33,9 +32,6 @@ img:hover {
 }
 .circular {
   border-radius: 100%;
-}
-.matt2 {
-  background-color: blue;
 }
 
 /***************************** ID SELECTORS *************************/
