@@ -1,3 +1,4 @@
+/*************************** TAG SELECTORS ***************************/
 body {
   background-color: #EAF6F6;
 }
@@ -19,4 +20,25 @@ hr {
   height: 0px;
   width: 10%;
 
+}
+
+
+img:hover {
+  background-color: gold;
+}
+
+/***************************** CLASS SELECTORS *************************/
+.matt {
+  background-color: white;
+}
+.circular {
+  border-radius: 100%;
+}
+.matt2 {
+  background-color: blue;
+}
+
+/***************************** ID SELECTORS *************************/
+#heading {
+  color: blue;
 }
